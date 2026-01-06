@@ -1,0 +1,11 @@
+transaction_id,product_category,sales_amount,customer_age,Rating
+1,Electronics,250.0,25.0,4.5
+2,Clothing,80.0,34.0,3.8
+3,Electronics,300.0,28.0,4.2
+4,Home & Kitchen,150.0,45.0,4.0
+5,Clothing,90.0,23.0,3.5
+6,Electronics,400.0,37.0,4.8
+7,Home & Kitchen,200.0,,4.1
+8,Clothing,70.0,29.0,3.9
+9,Electronics,5000.0,31.0,2.0
+10,Home & Kitchen,180.0,40.0,4.3
